@@ -1,0 +1,1 @@
+This is a sample project using Javascript to create a 1 dice version of the Pig Game, where you try to reach 100 points by banking your dice rolled. If you roll a 1, you lose any unbanked points and the turn passes to the other player.
